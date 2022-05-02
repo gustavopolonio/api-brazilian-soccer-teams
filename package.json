@@ -1,0 +1,7 @@
+{
+  "name": "api-brazilian-soccer-teams",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gustavo <gustavopolonio1@gmail.com>",
+  "license": "MIT"
+}
