@@ -1,10 +1,10 @@
 const express = require('express')
 const server = express()
 
-const films = require('./public/clubs.json')
+const clubs = require('./src/data/clubs.json')
 
 server.get('/', (req, res) => {
-  return res.json(films)
+  return res.json(clubs)
 })
 
 
