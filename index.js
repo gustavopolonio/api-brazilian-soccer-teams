@@ -5,7 +5,6 @@ const port = process.env.PORT || 3333
 const clubs = require('./src/data/clubs.json')
 
 server.get('/', (req, res) => {
-  console.log('hi')
   return res.json(clubs)
 })
 
