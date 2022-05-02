@@ -8,10 +8,6 @@ server.get('/', (req, res) => {
   return res.json(clubs)
 })
 
-server.get('/clubs', (req, res) => {
-  return res.json(clubs)
-})
-
 
 server.listen(port, () => {
   console.log('Server initialized')
