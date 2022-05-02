@@ -1,7 +1,7 @@
 const express = require('express')
 const server = express()
 
-const films = require('./src/data/films.json')
+const films = require('./public/films.json')
 
 server.get('/', (req, res) => {
   return res.json(films)
