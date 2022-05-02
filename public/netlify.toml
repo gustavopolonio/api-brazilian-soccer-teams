@@ -1,0 +1,7 @@
+[build]
+  publish="public"
+
+[[redirects]]
+  from="/"
+  to="/films.json"
+  status=302
