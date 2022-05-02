@@ -1,7 +1,7 @@
 [build]
-  publish="public"
+  publish = "public"
 
 [[redirects]]
-  from="/"
-  to="/films.json"
-  status=302
+  from = "/"
+  to = "/films.json"
+  status = 302
