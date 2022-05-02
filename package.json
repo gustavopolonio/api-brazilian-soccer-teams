@@ -2,6 +2,13 @@
   "name": "api-brazilian-soccer-teams",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
   "author": "Gustavo <gustavopolonio1@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
 }
