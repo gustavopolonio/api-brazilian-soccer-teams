@@ -1,6 +1,6 @@
 const express = require('express')
 const server = express()
-const port = 3333
+const port = process.env.PORT || 3333
 
 const clubs = require('./src/data/clubs.json')
 
