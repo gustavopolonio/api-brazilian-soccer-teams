@@ -1,5 +1,13 @@
 [
 	{
+		"id": 0,
+		"name": "XV de Jaú",
+		"encodedName": "xv-de-jau",
+		"logoLink": "https://svgshare.com/i/gps.svg",
+		"stadiumName": "Zezinho Magalhães",
+		"state": "SP"
+	},
+	{
 		"id": 1,
 		"name": "Palmeiras",
 		"encodedName": "palmeiras",
