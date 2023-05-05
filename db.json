@@ -1,0 +1,170 @@
+[
+	{
+		"id": 0,
+		"name": "XV de Jaú",
+		"encodedName": "xv-de-jau",
+		"logoLink": "https://svgshare.com/i/gps.svg",
+		"stadiumName": "Zezinho Magalhães",
+		"state": "SP"
+	},
+	{
+		"id": 1,
+		"name": "Palmeiras",
+		"encodedName": "palmeiras",
+		"logoLink": "https://vetores.org/d/palmeiras.svg",
+		"stadiumName": "Allianz Parque",
+		"state": "SP"
+	},
+	{
+		"id": 2,
+		"name": "Corinthians",
+		"encodedName": "corinthians",
+		"logoLink": "https://vetores.org/d/corinthians.svg",
+		"stadiumName": "Neo Química Arena",
+		"state": "SP"
+	},
+	{
+		"id": 3,
+		"name": "Red Bull Bragantino",
+		"encodedName": "bragantino",
+		"logoLink": "https://vetores.org/d/red-bull-bragantino.svg",
+		"stadiumName": "Nabi Abi Chedid",
+		"state": "SP"
+	},
+	{
+		"id": 4,
+		"name": "Santos",
+		"encodedName": "santos",
+		"logoLink": "https://vetores.org/d/santos.svg",
+		"stadiumName": "Vila Belmiro",
+		"state": "SP"
+	},
+	{
+		"id": 5,
+		"name": "São Paulo",
+		"encodedName": "sao-paulo",
+		"logoLink": "https://vetores.org/d/sao-paulo-futebol-clube.svg",
+		"stadiumName": "Morumbi",
+		"state": "SP"
+	},
+	{
+		"id": 6,
+		"name": "Atlético Mineiro",
+		"encodedName": "atletico-mineiro",
+		"logoLink": "https://vetores.org/d/atletico-mineiro.svg",
+		"stadiumName": "Mineirão",
+		"state": "MG"
+	},
+	{
+		"id": 7,
+		"name": "Coritiba",
+		"encodedName": "coritiba",
+		"logoLink": "https://cdn.worldvectorlogo.com/logos/coritiba.svg",
+		"stadiumName": "Couto Pereira",
+		"state": "PR"
+	},
+	{
+		"id": 8,
+		"name": "Cuiabá",
+		"encodedName": "cuiaba",
+		"logoLink": "https://vetores.org/d/cuiaba.svg",
+		"stadiumName": "Arena Pantanal",
+		"state": "MT"
+	},
+	{
+		"id": 9,
+		"name": "Internacional",
+		"encodedName": "internacional",
+		"logoLink": "https://vetores.org/d/internacional.svg",
+		"stadiumName": "Beira-Rio",
+		"state": "RS"
+	},
+	{
+		"id": 10,
+		"name": "Avaí",
+		"encodedName": "avai",
+		"logoLink": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Avai_FC_%2805-E%29_-_SC.svg",
+		"stadiumName": "Ressacada",
+		"state": "SC"
+	},
+	{
+		"id": 11,
+		"name": "América Mineiro",
+		"encodedName": "america-mineiro",
+		"logoLink": "https://vetores.org/d/america-mineiro.svg",
+		"stadiumName": "Arena Independência",
+		"state": "MG"
+	},
+	{
+		"id": 12,
+		"name": "Flamengo",
+		"encodedName": "flamengo",
+		"logoLink": "https://vetores.org/d/flamengo.svg",
+		"stadiumName": "Maracanã",
+		"state": "RJ"
+	},
+	{
+		"id": 13,
+		"name": "Botafogo",
+		"encodedName": "botafogo",
+		"logoLink": "https://vetores.org/d/botafogo.svg",
+		"stadiumName": "Nilton Santos",
+		"state": "RJ"
+	},
+	{
+		"id": 14,
+		"name": "Fluminense",
+		"encodedName": "fluminense",
+		"logoLink": "https://vetores.org/d/fluminense.svg",
+		"stadiumName": "Maracanã",
+		"state": "RJ"
+	},
+	{
+		"id": 15,
+		"name": "Ceará",
+		"encodedName": "ceara",
+		"logoLink": "https://vetores.org/d/ceara.svg",
+		"stadiumName": "Castelão",
+		"state": "CE"
+	},
+	{
+		"id": 16,
+		"name": "Athletico Paranaense",
+		"encodedName": "athletico-paranaense",
+		"logoLink": "https://vetores.org/d/athletico-paranaense.svg",
+		"stadiumName": "Arena da Baixada",
+		"state": "PR"
+	},
+	{
+		"id": 17,
+		"name": "Atlético Goianiense",
+		"encodedName": "atletico-goianiense",
+		"logoLink": "https://vetores.org/d/atletico-goianiense.svg",
+		"stadiumName": "Antônio Accioly",
+		"state": "GO"
+	},
+	{
+		"id": 18,
+		"name": "Goiás",
+		"encodedName": "goias",
+		"logoLink": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Goi%C3%A1s_Esporte_Clube_logo.svg",
+		"stadiumName": "Serra Dourada",
+		"state": "GO"
+	},
+	{
+		"id": 19,
+		"name": "Juventude",
+		"encodedName": "juventude",
+		"logoLink": "https://vetores.org/d/juventude.svg",
+		"stadiumName": "Alfredo Jaconi",
+		"state": "RS"
+	},
+	{
+		"id": 20,
+		"name": "Fortaleza",
+		"encodedName": "fortaleza",
+		"logoLink": "https://vetores.org/d/fortaleza.svg",
+		"stadiumName": "Castelão",
+		"state": "CE"
+	}
+]
